@@ -11,7 +11,7 @@ function App() {
     setData(playerData);
   }, [])
 
-  const handleEvent = (clickedPlayer) => {
+  const addPlayer = (clickedPlayer) => {
     const newCart = [...cart, clickedPlayer]
     addCart(newCart)
     console.log(clickedPlayer.name)
@@ -20,11 +20,9 @@ function App() {
     <div>
       <h1 style={{textAlign:"center"}}>Welcome 2021 BPL Player Selection Site</h1>
       <Cart cart={cart}></Cart>
-      <ul>
         {
-          data.map(player => <Display player={player} handleEvent={handleEvent} key={player.id}></Display>)
+        data.map(player => <Display player={player} addPlayer={addPlayer} key={player.id}></Display>)
         }
-      </ul>
     </div>
   );
 }

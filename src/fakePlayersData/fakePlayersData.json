@@ -5,7 +5,8 @@
         "email": "rmacgorrie0@admin.ch",
         "gender": "Male",
         "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/1200px-Mushfiqur_Rahim_2018_%28cropped%29.jpg",
-        "demandValue": "15000"
+        "demandValue": "15000",
+        "role": "Right Handed Bat & WK"
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "email": "knorrey1@jigsy.com",
         "gender": "Male",
         "photo": "https://static.toiimg.com/thumb/msid-69445037,width-1200,height-900,resizemode-4/.jpg",
-        "demandValue": "20000"
+        "demandValue": "20000",
+        "role": "Batting Allrounder"
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "email": "cslowgrave2@bizjournals.com",
         "gender": "Male",
         "photo": "https://imagevars.gulfnews.com/2018/9/26/1_16a0850d49e.2283243_290116943_16a0850d49e_large.jpg",
-        "demandValue": "14200"
+        "demandValue": "14200",
+        "role": "Left-arm Bowler"
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "email": "fsmidmore3@lulu.com",
         "gender": "Male",
         "photo": "https://www.thestatesman.com/wp-content/uploads/2019/07/Mashrafe.jpg",
-        "demandValue": "19900"
+        "demandValue": "19900",
+        "role": "Bowling Allrounder"
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "email": "twinham4@geocities.jp",
         "gender": "Male",
         "photo": "https://www.indiafantasy.com/wp-content/uploads/OFC-POKER-39.jpg",
-        "demandValue": "25000"
+        "demandValue": "25000",
+        "role": "Batting Allrounder"
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "email": "lmotten5@naver.com",
         "gender": "Male",
         "photo": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/301300/301302.6.jpg",
-        "demandValue": "48000"
+        "demandValue": "48000",
+        "role": "Right Handed Bat & WK"
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "email": "mdowne6@google.nl",
         "gender": "Male",
         "photo": "https://m.cricbuzz.com/a/img/v1/600x400/i1/c179880/taskin-ahmed-last-played-a-test-in-september-2017.jpg",
-        "demandValue": "12000"
+        "demandValue": "12000",
+        "role": "Right-arm Bowler"
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "email": "enast7@craigslist.org",
         "gender": "Male",
         "photo": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201505/rubel-hossain-650_052015043930.jpg",
-        "demandValue": "15008"
+        "demandValue": "15008",
+        "role": "Right-arm Bowler"
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "email": "ustowte8@xinhuanet.com",
         "gender": "Male",
         "photo": "https://www.bdcrictime.com/wp-content/uploads/2017/03/Mehedi-Hasan-Miraz-1.jpg",
-        "demandValue": "60500"
+        "demandValue": "60500",
+        "role": "Bowling Allrounder"
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "email": "bhearty9@squidoo.com",
         "gender": "Male",
         "photo": "https://admin.dailycricket.com.bd/storage/posts/3582/Soumya-Sarkar.jpg",
-        "demandValue": "84512"
+        "demandValue": "84512",
+        "role": "Batting Allrounder"
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "email": "sconibeera@dmoz.org",
         "gender": "Male",
         "photo": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/saifuddin241001.jpg",
-        "demandValue": "35489"
+        "demandValue": "35489",
+        "role": "Bowling Allrounder"
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "email": "awikeb@opensource.org",
         "gender": "Male",
         "photo": "https://www.indiafantasy.com/wp-content/uploads/imgpsh_fullsize_anim-6-1-1200x720.jpg",
-        "demandValue": "51200"
+        "demandValue": "51200",
+        "role": "Bowling Allrounder"
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "email": "tpesselc@addthis.com",
         "gender":"Male",
         "photo": "https://www.crictracker.com/wp-content/uploads/2019/02/Mosaddek-Hossain-of-Bangladesh.jpg",
-        "demandValue": "35456"
+        "demandValue": "35456",
+        "role": "Batting Allrounder"
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "email": "nbosleyd@angelfire.com",
         "gender": "Male",
         "photo": "https://www.outlookindia.com/public/uploads/gallery/20191110/cricket_10_20191111.jpg",
-        "demandValue": "63485"
+        "demandValue": "63485",
+        "role": "Left Hand Bating"
     },
     {
         "id": 15,
@@ -117,6 +131,16 @@
         "email": "jcockmane@admin.ch",
         "gender": "Male",
         "photo": "https://www.jugantor.com/assets/news_photos/2019/09/19/image-222509-1568909907.jpg",
-        "demandValue": "12456"
+        "demandValue": "12456",
+        "role": "Batting Allrounder"
+    },
+    {
+        "id": 16,
+        "name": "Tamim Iqbal",
+        "email": "jcockmane@admin.ch",
+        "gender": "Male",
+        "photo": "https://www.espncricinfo.com/db/PICTURES/CMS/301400/301403.jpg",
+        "demandValue": "12000",
+        "role": "Left Hand Batsman "
     }
 ]
